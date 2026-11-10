@@ -1,0 +1,6 @@
+{
+  "name": "FancyCreativesStudio (FCS · 墨境智作)",
+  "description": "FCS AI 驱动的下一代全流程创作操作系统，涵盖工作台总览、Novel Graph叙事图谱、AI智能共创、章节编辑、时空时间线、版本管理、多人协作、质量门禁、插件生态、资产管理与全渠道发布分发。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
